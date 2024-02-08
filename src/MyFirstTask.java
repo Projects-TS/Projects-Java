@@ -10,6 +10,10 @@ public class MyFirstTask {
         System.out.println(old);
         System.out.println(first);
         System.out.println(second);
+<<<<<<< Updated upstream
         System.out.println("This is an example for mt first commit"); // great job!
+=======
+        System.out.println("This is an example for my first commit");
+>>>>>>> Stashed changes
     }
 }
