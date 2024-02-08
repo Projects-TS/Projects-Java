@@ -10,6 +10,6 @@ public class MyFirstTask {
         System.out.println(old);
         System.out.println(first);
         System.out.println(second);
-        System.out.println("This is an example for mt first commit");
+        System.out.println("This is an example for mt first commit"); // great job!
     }
 }
