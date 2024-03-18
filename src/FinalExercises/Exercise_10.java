@@ -12,7 +12,7 @@ public class Exercise_10 {
             int number = Input.nextInt();
             numberList.add(number);
             sum += number;}
-            double average = (double) sum / numberList.size();
+            double average = (double) sum / numberList.size(); // you need to write line 15 and line 16 outside of the loop.
                 System.out.println("the average is: " + average);
         Input.close();
             }

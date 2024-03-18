@@ -2,7 +2,7 @@ package FinalExercises;
 //this exercise - specifies the desired range (startnumber & endnumber), and printing only values that divided by both of the values.
 public class Exercise_5 {
     public static void main(String[] args) {
-        int startnumber = 5;
+        int startnumber = 5; // why you dont use a Scanner for all of the numbers?
         int endnumber = 45;
         int firstDivideNumber = 2;
         int secondDivideNumber = 12;

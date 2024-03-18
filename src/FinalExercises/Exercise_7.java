@@ -7,11 +7,12 @@ public class Exercise_7 {
         Scanner Input = new Scanner(System.in);
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
-        int number;
+        int number; // you don't need to initialize the number
         while (true) {
             System.out.println("Enter a number ");
             number = Input.nextInt();
-            { if (number == 0) {
+            { //remove the closure parentheses
+             if (number == 0) {
                 break;
             }
             if (number > max) {
